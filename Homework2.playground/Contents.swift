@@ -7,6 +7,7 @@ func toFahrenheit(celsius: Double) -> Double {
 let fahrenheit = toFahrenheit(celsius: 25)
 print(fahrenheit)
 
+
 // MARK: - Question 1.2
 
     func perimeterCalculate(width: Double, height: Double) -> Double {
